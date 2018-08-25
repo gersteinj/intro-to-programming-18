@@ -1,7 +1,3 @@
----?color=linear-gradient(to bottom, #103, #306)
-
-
-
 ---?image=assets/images/sunrise.jpg&opacity=80
 
 @title[Let's Get Started]
