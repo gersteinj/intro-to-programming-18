@@ -1,8 +1,7 @@
 ---
-
+title: Introduction to Programming - Fall 2018
 ---
 
-# Introduction to Programming - Fall 2018
 ## UCMHS  | Ms. Gerstein | Junior Technology
 
 ## About the Course
