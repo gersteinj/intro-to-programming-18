@@ -2,13 +2,12 @@
 
 ## [What is Programming?](01-introduction/index.md)
 
-* Introduce programming/first programming examples
-* Pseudocode
+* Introduce programming/pseudocode
 * Flowcharts
+* More pseudocode/starting Python
 * Math and built-in functions
 * Data types
-* Variables
-* Interactivity
+* Variables/interactivity
 
 ## [Version Control and Documentation](02-documentation-version-control/index.md)
 

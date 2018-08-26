@@ -25,9 +25,17 @@ Students will be able to:
 
 ## Course Materials
 
-All work for this course can be performed on the school-issued Chromebooks. If students wish to install the software to work on other computers, setup guides can be provided. All work can be completed with free software. We will be using Python, Cloud9, Git, and Google Docs.
+Each day, you will need to bring your Chromebook as well as paper and something to write with. You may take notes however you prefer, as long as you are prepared to do so each day.
+
+To help you track assignments and due dates, assignments will be posted in Google Classroom. Slides and resources are hosted on my website and will be linked in Google Classroom for your convenience.
+
+I will be posting optional practice exercises. I will do my best to make them self-checking wherever possible.
 
 ## Classroom Procedures and Expectations
+
+**Always obey Rule 0: Don't make me make new rules**
+
+Additionally: 
 
 * Follow all MHS rules and policies
 * Respect your classmates' opinions and contributions
@@ -43,7 +51,17 @@ All work for this course can be performed on the school-issued Chromebooks. If s
 
 ## Grading Policy
 
-Grading will be based on a mix of participation, classwork, quizzes, and projects. Grading is done using total points. Rubrics will be provided for all major assignments.
+* Grading is based on total points
+* You will have a participation grade for each day you are in class, based on being prepared, participating in class, and successful completion of class exercises.
+* Additional points will come from larger classwork assignments, projects, and quizzes
+* Rubrics will be provided for major assignments
+
+Assignment types:
+
+* Exercises: short, simple tasks to practice or review a single topic
+* Classwork: more open-ended tasks to build on what I've covered and demonstrate competency in a skill. Not intended to last more than one class period
+* Project: Larger challenges with significant room to choose what you want to do. These will require you to combine a variety of skills and potentially use reference materials to try something new
+* Quiz: Check understanding of material. Primarily used for vocabulary and basic concepts
 
 ## Assignment submission
 All assignments are to be submitted in the required format no later than the required date and time. Late submissions will be subject to a penalty of 10% of the toal grade for each day they are late. In order to communicate effectively, proper spelling and grammar are required.
