@@ -1,6 +1,6 @@
 # Topics
 
-## What is Programming?
+## [What is Programming?](01-introduction/index.md)
 
 * Introduce programming/first programming examples
 * Pseudocode
