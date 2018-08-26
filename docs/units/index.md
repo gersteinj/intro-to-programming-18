@@ -10,7 +10,7 @@
 * Variables
 * Interactivity
 
-## [Version Control and Documentation](02-docuentation-version-control/index.md)
+## [Version Control and Documentation](02-documentation-version-control/index.md)
 
 * Documenting code and good formatting practices
 * Maintaining code with version control systems
