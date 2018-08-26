@@ -10,13 +10,13 @@
 * Variables
 * Interactivity
 
-## Version Control and Documentation
+## [Version Control and Documentation](02-docuentation-version-control/index.md)
 
 * Documenting code and good formatting practices
 * Maintaining code with version control systems
 * Collaborating through version control systems
 
-## Control Structures and Complex Data Types
+## [Control Structures and Complex Data Types](03-control-structures/index.md)
 
 * Conditional statements
 * Lists & tuples
@@ -24,11 +24,11 @@
 * Loops
 * User functions
 
-## Object Oriented Code
+## [Object Oriented Code](04-object-oriented/index.md)
 
 * Use and modify provided classes
 * Define and use classes
 
-## Final Project
+## [Final Project](05-final-project/index.md)
 
 * Student-directed work on project
