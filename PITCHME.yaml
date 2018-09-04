@@ -25,7 +25,7 @@ transition : none
 
 logo : assets/images/logo.png
 theme-override : assets/css/PITCHME.css
-footnote : "Your custom footnote goes here."
+footnote : "Intro to Programming | UCMHS | Fall 2018 | Ms. Gerstein"
 
 #
 # Additional sample quickstart setting options:
@@ -34,7 +34,8 @@ background : assets/images/rainbow-comp-background.jpg
 background-color : black
 background-size : cover
 background-position : center
-background-opacity : 30
+background-opacity : 20
 #
 # highlight : atom-one-dark
+# highlight : monokai
 #
