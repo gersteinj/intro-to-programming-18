@@ -26,6 +26,12 @@ Don't make me make more rules.
 * If you miss class, it's your responsibility to seek out the help you need to get caught up
 * Don't behave in ways that would require me to invoke Rule 0
 ---
+## Leaving/entering
+
+* If you arrive late, give me your pass and sit down quietly
+* To go to the bathroom/water fountain, sign out and take bathroom pass. Sign in when you return
+* To leave for other things, ask before you go. Remember to sign out/sign in
+---
 # Class Supplies and Resources
 ---
 ## What You Need
@@ -60,4 +66,5 @@ Don't make me make more rules.
 ## By next class:
 
 * Make sure your parents have submitted AUP
-* Fill out my [student info form](#)
+* Fill out my [student info form](https://airtable.com/shrawMmS95wksQfYJ)
+* Your signature and a parent/guardian signature for [course syllabus](https://gersteinj.github.io/intro-to-programming-18/)
