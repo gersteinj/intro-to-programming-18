@@ -45,7 +45,7 @@ Don't make me make more rules.
 ## Grading
 
 * Total points
-* You will have a participation grade for each day you are in class
+* You will have a Career Readiness and Preparation grade for each day you are in class
 * Additional points will come from larger classwork assignments, projects, and quizzes
 * Rubrics will be provided for major assignments
 ---
