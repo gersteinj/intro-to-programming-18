@@ -1,7 +1,6 @@
 ---
 title: Introduction to Programming - Fall 2018
 ---
-
 ## UCMHS  | Ms. Gerstein | Junior Technology
 
 ## About the Course
@@ -11,6 +10,7 @@ Computers are used by scientists, engineers, designers, and artists to work with
 ## Course Goals and Objectives
 
 Students will be able to:
+
 * Apply coding techniques to solve problems
 * Work within an IDE to write, test, and debug code
 * Develop clear and useful flowcharts to describe processes
@@ -52,7 +52,7 @@ Additionally:
 ## Grading Policy
 
 * Grading is based on total points
-* You will have a participation grade for each day you are in class, based on being prepared, participating in class, and successful completion of class exercises.
+* You will have a Career Readiness and Preparedness grade for each day you are in class, based on behaving in a way that is professional and appropriate for college courses and the workplace.
 * Additional points will come from larger classwork assignments, projects, and quizzes
 * Rubrics will be provided for major assignments
 

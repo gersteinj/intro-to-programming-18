@@ -3,6 +3,8 @@
 
 #### Unit 1 Section B - First Steps in Python
 ---
+<iframe height="400px" width="100%" src="https://repl.it/@jacquelinegerstein/AffectionateVillainousDesigners?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+---
 ## Do Now
 
 Look at sample code. What can you figure out about it?
@@ -27,6 +29,8 @@ Look at sample code. What can you figure out about it?
 * Commonly used as a tool
 * Used as an introductory language in many college CS programs
 * Heavily used in science and engineering
+* User-friendly
+* Versatile
 ---
 ## Working in Python
 
@@ -38,7 +42,6 @@ Look at sample code. What can you figure out about it?
 
 * Run one line at a time
 * Useful for trying things out
-* Use command line in terminal
 ---
 ### Script Mode
 
@@ -46,6 +49,10 @@ Look at sample code. What can you figure out about it?
 * Computer will execute each line without your involvement (unless your code involves user input)
 ---
 ## Resources
+
+* [Official Python Documentation](https://docs.python.org/3/)
+* [Repl.it](https://repl.it/)
+* [Trinket](https://trinket.io/)
 ---
 # Exercise
 ---
