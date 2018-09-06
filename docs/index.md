@@ -1,6 +1,6 @@
----
+<!-- ---
 title: Introduction to Programming - Fall 2018
----
+--- -->
 ## UCMHS  | Ms. Gerstein | Junior Technology
 
 ## About the Course
@@ -64,4 +64,4 @@ Assignment types:
 * Quiz: Check understanding of material. Primarily used for vocabulary and basic concepts
 
 ## Assignment submission
-All assignments are to be submitted in the required format no later than the required date and time. Late submissions will be subject to a penalty of 10% of the toal grade for each day they are late. In order to communicate effectively, proper spelling and grammar are required.
+All assignments are to be submitted in the required format no later than the required date and time. Late submissions will be subject to a penalty of 10% of the total grade for each day they are late. In order to communicate effectively, proper spelling and grammar are required.
