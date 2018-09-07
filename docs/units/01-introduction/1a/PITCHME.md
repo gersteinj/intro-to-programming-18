@@ -59,53 +59,39 @@ else
 
 * Diagram showing an algorithm or process
 * Different shapes have different meanings
-* Three main shapes: terminator, process, decision
+* Five main shapes
 ---
-@snap[west]
-<h2>Process</h2>
+## Process
 
-<ul>
-    <li>Rectangle</li>
-    <li>A single step</li>
-    <li>Any number of inputs</li>
-    <li>One output</li>
-    <li>No decisions</li>
-</ul>
-@snapend
-
-@snap[east]
-<img src="http://placekitten.com/300/200">
-@snapend
+* Rectangle
+* A single step
+* Any number of paths in
+* Single path out
 ---
-@snap[west]
-<h2>Decision</h2>
+## Decision
 
-<ul>
-    <li>Diamond</li>
-    <li>Yes/no question</li>
-    <li>Any number of inputs</li>
-    <li>Two outputs</li>
-</ul>
-@snapend
-
-@snap[east]
-<img src="http://placekitten.com/300/200">
-@snapend
+* Diamond
+* Yes/No question
+* Any number of paths in
+* Two paths out
 ---
-@snap[west]
-<h2>Terminator</h2>
+## Terminator
 
-<ul>
-    <li>Rectangle with rounded ends</li>
-    <li>Start or end a chart</li>
-    <li>One output for start</li>
-    <li>Any number of inputs for end</li>
-</ul>
-@snapend
+* Rectangle with rounded ends
+* Start or end a process in
+* One path out (if start)
+* Any number of paths in (if end)
+---
+## Data I/O
 
-@snap[east]
-<img src="http://placekitten.com/300/200">
-@snapend
+* Parallelogram
+* Any number of paths in
+* One path out
+---
+## Predefined process
+
+* Rectangle with vertical bars on sides
+* Refers to a process defined in another spreadsheet
 ---
 ## Flowcharts
 
