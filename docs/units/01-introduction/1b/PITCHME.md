@@ -25,6 +25,8 @@ Review your notes from yesterday. Create a flowchart describing what to do when 
 ## Problem Statement
 
 Create a guessing game in which the computer generates a random secret number. After each guess, the computer tells the user whether their number was too large or too small. When the user guesses correctly, the computer prints how many guesses were needed.
+
+If you are confident in completing the above, try to complete the advanced option: If the user provides a number that was already used, reject it and do not count it in the attempts. 
 ---
 ## Evaluation
 
