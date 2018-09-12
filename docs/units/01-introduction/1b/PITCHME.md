@@ -1,71 +1,38 @@
 ---
 # Intro to Programming
 
-#### Unit 1 Section B - First Steps in Python
----
-<iframe height="400px" width="100%" src="https://repl.it/@jacquelinegerstein/AffectionateVillainousDesigners?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+#### Unit 1 Section B - SGO Pre-Assessment
 ---
 ## Do Now
 
-Look at sample code. What can you figure out about it?
+Review your notes from yesterday. Create a flowchart describing what to do when you arrive at school.
 ---
 ## Core Concepts
 
-* What is a programming language?
-* Why Python?
-* How do we use Python?
-* Python resources
+* The nature of programming
+* Working with pseudocode
+* Flowcharts
 ---
-## Programming Languages
-
-* Formal, structured way to give directions to computers
-* General concepts apply across most languages
-* Usually (but not always) text-based
-* Each language has formatting rules
-* Syntax is the grammar of a programming language
----
-## Why Python?
-
-* Commonly used as a tool
-* Used as an introductory language in many college CS programs
-* Heavily used in science and engineering
-* User-friendly
-* Versatile
----
-## Working in Python
-
-* You write Python code
-* Computer executes your code one line at a time
-* Script mode vs Interactive mode
----
-### Interactive Mode
-
-* Run one line at a time
-* Useful for trying things out
----
-### Script Mode
-
-* Write a text file ending in .py
-* Computer will execute each line without your involvement (unless your code involves user input)
----
-## Resources
-
-* [Official Python Documentation](https://docs.python.org/3/)
-* [Repl.it](https://repl.it/)
-* [Trinket](https://trinket.io/)
----
-# Exercise
+# SGO Pre-assessment
 ---
 ## Directions
 
-* ?
+* Read the problem statement
+* Create pseudocode and a flowchart to describe a method to solve the assigned problem
+* Remember to indent your pseudocode
+* You may use digital tools (if your AUP is signed) or paper
+---
+## Problem Statement
+
+Create a guessing game in which the computer generates a random secret number. After each guess, the computer tells the user whether their number was too large or too small. When the user guesses correctly, the computer prints how many guesses were needed.
 ---
 ## Evaluation
 
-* ?
+* Exercise (graded as complete, partially complete, or inadequate)
+* Will get feedback as if it were classwork
 ---
 ## Submitting Work
 
-* ?
+* Google Classroom (submit correctly!) if digital
+* Put in folder for your class if paper
 ---
-## Remember to get your AUP signed
