@@ -7,12 +7,12 @@
 ---
 ## Do Now
 
-1. Sign up for my [Repl.it](https://repl.it/) classroom using your school Google account.
-2. Try playing around with the sample code on the previous slide
-
+1. Sign up for my Repl.it classroom using your school Google account.
+2. Try Exercise 1.0
+---
 Classrooms:
-[3-4A](https://repl.it/classroom/invite/XnQpG5C)
-[7-8A](https://repl.it/classroom/invite/ZBHR1WJ)
+[3-4A Primary](https://repl.it/classroom/invite/XnQpG5C) & [3-4A Turtle](#)
+[7-8A Primary](https://repl.it/classroom/invite/ZBwdTq6) & [7-8A Turtle](https://repl.it/classroom/invite/ZBxgS09)
 ---
 ## Core Concepts
 
