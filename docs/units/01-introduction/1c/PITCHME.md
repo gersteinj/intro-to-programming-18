@@ -1,13 +1,18 @@
 ---
 # Intro to Programming
 
-#### Unit 1 Section B - First Steps in Python
+#### Unit 1 Section C - First Steps in Python
 ---
 <iframe height="400px" width="100%" src="https://repl.it/@jacquelinegerstein/AffectionateVillainousDesigners?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 ---
 ## Do Now
 
-Look at sample code. What can you figure out about it?
+1. Sign up for my [Repl.it](https://repl.it/) classroom using your school Google account.
+2. Try playing around with the sample code on the previous slide
+
+Classrooms:
+[3-4A](https://repl.it/classroom/invite/XnQpG5C)
+[7-8A](https://repl.it/classroom/invite/ZBHR1WJ)
 ---
 ## Core Concepts
 
@@ -54,18 +59,18 @@ Look at sample code. What can you figure out about it?
 * [Repl.it](https://repl.it/)
 * [Trinket](https://trinket.io/)
 ---
-# Exercise
+# Exercises
+
+We will do some coding together in class.
 ---
 ## Directions
 
-* ?
+* Provided in class
 ---
 ## Evaluation
 
-* ?
+* Completion of exercises
 ---
 ## Submitting Work
 
-* ?
----
-## Remember to get your AUP signed
+* Submit through Repl.it
