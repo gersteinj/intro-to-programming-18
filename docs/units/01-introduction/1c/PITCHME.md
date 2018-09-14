@@ -11,8 +11,9 @@
 2. Try Exercise 1.0
 ---
 Classrooms:
-[3-4A Primary](https://repl.it/classroom/invite/XnQpG5C) & [3-4A Turtle](#)
-[7-8A Primary](https://repl.it/classroom/invite/ZBwdTq6) & [7-8A Turtle](https://repl.it/classroom/invite/ZBxgS09)
+
+* [3-4A Primary](https://repl.it/classroom/invite/XnQpG5C) & [3-4A Turtle](#)
+* [7-8A Primary](https://repl.it/classroom/invite/ZBwdTq6) & [7-8A Turtle](https://repl.it/classroom/invite/ZBxgS09)
 ---
 ## Core Concepts
 
