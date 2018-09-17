@@ -5,7 +5,7 @@
 ---
 ## Do Now
 
-1. Sign up for my Repl.it classroom using your school Google account.
+1. Sign up for my Repl.it classrooms using your school Google account.
 2. Try Exercise 1.0
 ---
 Classrooms:
@@ -13,6 +13,7 @@ Classrooms:
 * [3-4A Primary](https://repl.it/classroom/invite/XnQpG5C) & [3-4A Turtle](https://repl.it/classroom/invite/ZB2OyzH)
 * [7-8A Primary](https://repl.it/classroom/invite/ZBwdTq6) & [7-8A Turtle](https://repl.it/classroom/invite/ZBxgS09)
 * [3-4B Primary](https://repl.it/classroom/invite/ZJKI8HL) & [3-4B Turtle](https://repl.it/classroom/invite/ZJLL6hO)
+* [7-8B Primary](https://repl.it/classroom/invite/ZKIvNpz) & [7-8B Turtle](https://repl.it/classroom/invite/ZKJyM0C)
 ---
 ## Core Concepts
 
