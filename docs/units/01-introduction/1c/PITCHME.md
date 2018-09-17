@@ -3,8 +3,6 @@
 
 #### Unit 1 Section C - First Steps in Python
 ---
-<iframe height="400px" width="100%" src="https://repl.it/@jacquelinegerstein/AffectionateVillainousDesigners?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
----
 ## Do Now
 
 1. Sign up for my Repl.it classroom using your school Google account.
@@ -12,8 +10,9 @@
 ---
 Classrooms:
 
-* [3-4A Primary](https://repl.it/classroom/invite/XnQpG5C) & [3-4A Turtle](#)
+* [3-4A Primary](https://repl.it/classroom/invite/XnQpG5C) & [3-4A Turtle](https://repl.it/classroom/invite/ZB2OyzH)
 * [7-8A Primary](https://repl.it/classroom/invite/ZBwdTq6) & [7-8A Turtle](https://repl.it/classroom/invite/ZBxgS09)
+* [3-4B Primary](https://repl.it/classroom/invite/ZJKI8HL) & [3-4B Turtle](https://repl.it/classroom/invite/ZJLL6hO)
 ---
 ## Core Concepts
 
