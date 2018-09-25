@@ -92,7 +92,7 @@ print(my_name)
 * Output: Returns value if converted successfully. Otherwise error.
 ---
 ## Conversions
-
+    
 ```python
 # Even if you respond with a number, my_num will be a string
 my_num = input("Choose a number")
