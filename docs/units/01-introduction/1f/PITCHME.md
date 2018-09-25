@@ -1,7 +1,7 @@
 ---
 # Intro to Programming
 
-#### Unit 1 Section D - Data Types and Variables
+#### Unit 1 Section F - Review string methods, introduce conditionals
 ---
 ## Do Now
 
@@ -21,4 +21,3 @@ Continue sub assignment. We will review together.
 ## Try It
 
 Using the documentation, complete exercise 1.8
----
