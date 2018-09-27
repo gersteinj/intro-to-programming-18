@@ -61,3 +61,47 @@ else:
 @[5-6](This is checked if the if doesn't run)
 @[7-8](This will run if none of the above statements run)
 ---
+## Rules of Conditionals
+
+* *if* is required
+* *elif* and *else* are optional
+* As soon as one clause has been run, Python skips the rest of the chain
+---
+## Try It
+
+Exercise 1.9
+---
+## and/or/not
+
+* *and* & *or* can combine two statements
+* *and* is True if both sides are True
+* *or* is True if either side is True
+* *not* reverses True/False values
+---
+| and   |     |       |   |
+|-------|-----|-------|---|
+| True  | and | True  | ? |
+| True  | and | False | ? |
+| False | and | True  | ? |
+| False | and | False | ? |
+---
+| or    |     |       |   |
+|-------|-----|-------|---|
+| True  | or  | True  | ? |
+| True  | or  | False | ? |
+| False | or  | True  | ? |
+| False | or  | False | ? |
+---
+| and   |     |           |   |
+|-------|-----|-----------|---|
+| True  | and | not True  | ? |
+| True  | and | not False | ? |
+| False | and | not True  | ? |
+| False | and | not False | ? |
+---
+| or    |     |           |   |
+|-------|-----|-----------|---|
+| True  | or  | not True  | ? |
+| True  | or  | not False | ? |
+| False | or  | not True  | ? |
+| False | or  | not False | ? |
