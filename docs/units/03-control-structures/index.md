@@ -1,7 +1,6 @@
 # Control Structures and Complex Data Types
 
-* Conditional statements
+* Conditional statements & Loops
 * Lists & tuples
 * Dictionaries
-* Loops
 * User functions
