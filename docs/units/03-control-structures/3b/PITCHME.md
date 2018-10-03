@@ -24,6 +24,7 @@ while n <= 100:
     print(n)
     n += 1
 ```
+---
 ## For loops
 
 * *do* something *for each item* in a range
