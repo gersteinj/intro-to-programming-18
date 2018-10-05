@@ -66,7 +66,7 @@ is_only_vowels = True
 
 for char in "Sphinx of black quartz, judge my vow.":
     if char not in 'aeiou':
-        all_vowels = False
+        is_only_vowels = False
 
 if is_only_vowels:
     print("That was only vowels")
@@ -89,3 +89,19 @@ This will do the exact **opposite** of what you want. Without a comparison, your
 O is evaluated as false, and non-zero numbers are evaluated as true, so that statement will only run when n is *not* divisible by 0!
 
 Generally, we only leave out the comparison for a value/variable that has a value of either True or False
+---
+## More with print()
+
+When printing, you can change the characters used to separate comma-separated strings or to end a line.
+
+`print(thing_to_print, sep=' ', end='\n')`
+
+Example:
+```python
+for x in range(10):
+    print(x, end='!')
+```
+
+will print
+
+0!1!2!3!4!5!6!7!8!9!
