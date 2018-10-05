@@ -10,6 +10,7 @@
 * Pseudocode (submit in Google Classroom, must be typed)
 * Flowchart (submit in Google Classroom as a .png, .jpg, or .pdf file, may be digital or scanned from paper)
 * Code (work from project in Repl.it)
+* Reflection (submit in Google Classroom, must be typed)
 ---
 ## Schedule
 
