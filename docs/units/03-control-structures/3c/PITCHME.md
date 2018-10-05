@@ -38,7 +38,7 @@ You will have this class and the class after it. Assignment is due at end of sec
 * Test early, test often
 * While testing, you can use print() to show what a value is
 ---
-# Helpful Code
+# Helpful Code and Code Patterns
 ---
 ## in
 
@@ -54,3 +54,37 @@ You will have this class and the class after it. Assignment is due at end of sec
 for letter in "New Jersey":
     print(letter)
 ```
+@[2] Can you replace this with a conditional statement to print letters based on certain conditions?
+---
+## Checking Items in a Sequence
+
+Sometimes, you want to check multiple things in a sequence. For instance, finding out if all the characters in a string are vowels.
+
+```python
+is_only_vowels = True
+
+for char in "Sphinx of black quartz, judge my vow.":
+    if char not in 'aeiou':
+        all_vowels = False
+
+if is_only_vowels:
+    print("That was only vowels")
+else:
+    print("You had other characters")
+```
+---
+## Logical tests without comparisons
+
+A lot of you are trying to write logical tests without comparisons. For instance:
+
+```python
+for n in range(10):
+    if n % 3:
+        print(f"{n} is divisible by 3")
+```
+
+This will do the exact **opposite** of what you want. Without a comparison, your logical test is *only the number*.
+
+O is evaluated as false, and non-zero numbers are evaluated as true, so that statement will only run when n is *not* divisible by 0!
+
+Generally, we only leave out the comparison for a value/variable that has a value of either True or False
