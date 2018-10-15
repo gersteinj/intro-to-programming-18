@@ -5,6 +5,17 @@
 * Pseudocode (submit in Google Classroom, must be typed)
 * Flowchart (submit in Google Classroom as a .png, .jpg, or .pdf file, may be digital or scanned from paper)
 * Code (work from project in Repl.it)
+* Reflection (submit in Google Classroom, must be typed)
+
+## Code Requirements
+
+* Must have a way of choosing a word (might be random, might be user input), must be actual words
+* Must be able to take user guesses
+* Must be able to track and display lives remaining
+* Must be able to determine if a guess is valid
+* Must be able to display the word being guessed in progress (for example -a- if the word being guessed is cat and the user has only guessed a)
+* Must be able to lose if you run out of lives
+* Must be able to determine when the player has won
 
 ## Schedule
 
