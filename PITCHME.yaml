@@ -39,3 +39,4 @@ background-opacity : 20
 # highlight : atom-one-dark
 # highlight : monokai
 #
+code-line-numbers : true
