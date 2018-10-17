@@ -64,10 +64,9 @@ speak('woof', 'meow')
 ---
 ## Optional Arguments
 
-* You can give a default value for an argument in your definition
-* Assigning a value for an argument with a default value will overwrite the default
-* Arguments with defaults don't need to be assigned a value in the function call
-* Arguments with defaults *must* come after arguments without defaults
+* Assigning a value for an argument with a default will overwrite it
+* Arguments with defaults can be excluded
+* Must come after arguments without defaults
 
 ```python
 def star(sz=100):
