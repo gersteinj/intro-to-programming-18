@@ -40,7 +40,7 @@ star(50)
 ```
 @[9](Python gets to this line and starts looking for a definition of star())
 @[1](Python finds the *first* place star() is defined and uses it)
-@[1, 0](The argument given in the *function call* is assigned as the value for the parameter in the function definition)
+@[1, 10](The argument given in the *function call* is assigned as the value for the parameter in the function definition)
 @[3-6](The block of code is executed with `sz` having the value specified in the function call)
 ---
 # Arguments
