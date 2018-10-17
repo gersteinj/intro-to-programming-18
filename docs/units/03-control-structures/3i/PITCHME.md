@@ -83,8 +83,8 @@ star()
 ---
 ## Keyword Arguments
 
-* Every argument has a variable name associated with it
-* Can assign to specific variable when calling function
+* Every argument has a variable name
+* Can assign to specific variable
 
 ```python
 def repeated_pattern(reps, sz=100, ang=150, direction="right"):
