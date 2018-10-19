@@ -52,7 +52,7 @@ my_list[3:]
 * `my_list.insert(index, item)`
 * `my_list.index(item)`
 ---
-# More Functions and Methods
+# Functions and Methods
 * `my_list.remove(item)`
 * `my_list.sort()`
 * `my_list.reverse()`
