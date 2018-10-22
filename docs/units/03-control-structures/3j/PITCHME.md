@@ -56,4 +56,4 @@ my_list[3:]
 * `my_list.remove(item)`
 * `my_list.sort()`
 * `my_list.reverse()`
-* `my_list.pop([index])`
+* `my_list.pop()`
