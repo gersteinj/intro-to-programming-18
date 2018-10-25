@@ -38,6 +38,7 @@ hair = ['brown', 'black', 'blonde']
 
 print(f"{names[0]} is {ages[0]} and has {eyes[0]} eyes and {hair[0]} hair")
 ```
+---
 ## Lists of data
 
 In the previous examples, how well did our lists work? Did they store the data? Was it easy to refer to?
