@@ -37,7 +37,7 @@ Imagine you were creating a game with an inventory system for the player. How mi
 * `len(d)`
 * `key in d`
 * `d.get(key[, default])`
------?code=docs/units/03-control-structures/3m/nestedexample.py&lang=python
+-----?code=docs/units/03-control-structures/3m/nestedexample.py&lang=python&title="Nested Dictionaries"
 
 @[2-6](Each person's name is a key in the main dictionary. The value is another dictionary)
 @[5, 10, 15](Even within the second dictionary, one of the keys is a list)

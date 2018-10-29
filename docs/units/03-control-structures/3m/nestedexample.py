@@ -9,7 +9,6 @@ people = {
         'location': 'Massachusetts',
         'hobbies': ['building things', 'photographing dogs', 'riding giant chainsaws']
     },
-    },
     'rick': {
         'age': 42,
         'location': 'Iowa',
