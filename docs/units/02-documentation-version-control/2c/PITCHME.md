@@ -32,6 +32,8 @@
 * Command Prompt
 * Shell
 ---
+# Command Line
+---
 ## Navigating Filesystem
 
 Command prompt shows working directory
@@ -54,6 +56,7 @@ Linux:
 * `dir` & `ls`
 * `rm` (Linux) or `del` (Windows)
 * `mkdir`
+* most commands can take arguments
 ---
 ## LS or DIR
 
@@ -124,3 +127,83 @@ Day08.py        IntroToProgramming17  Notebook2.ipynb  README.txt        filescr
 FinalProject17  Notebook1.ipynb       PRS-stats        class_samples.py  first-repo     intro-to-lists  processusernames.py     usernames.csv
 14:36 ~ $ 
 ```
+---
+# GitHub/Git
+---
+## GitHub
+
+* Remote repository host
+* Adds additional features
+* Makes your repository available from anywhere with internet access
+* Web interface, graphical interface, command line
+---
+## Git
+
+* The actual version control system
+* Command line only
+---
+## Beginner Commands
+
+* `init`
+* `clone`
+* `add`
+* `commit`
+* `checkout`
+* `branch`
+* `merge`
+* `reset`
+---
+## INIT
+
+* Create repository from CWD
+
+```bash
+14:35 ~ $ git init
+```
+---
+## CLONE
+
+* Make local copy of remote repository in CWD
+
+```bash
+14:35 ~ $ git clone <url>
+```
+---
+## ADD
+
+* Add files to staging area
+* Many different ways to use
+
+```bash
+14:35 ~ $ git add <filename>        # Stage <filename>
+14:35 ~ $ git add <directoryname>   # Stage all files in <directoryname>
+14:35 ~ $ git add .                 # Stage all modified and deleted files
+14:35 ~ $ git add -A                # Stage all (new, modified, deleted) files
+```
+---
+## COMMIT
+
+* Create a snapshot
+* Can create a commit message at same time (recommended)
+
+```bash
+14:35 ~ $ git commit                    # Creates a commit
+14:35 ~ $ git commit -a                 # Creates a commit, automatically staging all modified files
+14:35 ~ $ git commit -m "message"       # Creates a commit with the specified commit message
+# How could you automatically stage all modified files AND create a commit message
+```
+---
+# Try It
+---
+## Set up Git
+
+```bash
+14:35 ~ $ git config --global user.name <yourname>
+14:35 ~ $ git config --global user.email <youremail>
+14:35 ~ $ git config --global credential.helper cache
+```
+---
+## Clone
+
+* Clone my sample repository <https://github.com/jgerstein/samplerepo2018.git>
+* What's the command?
