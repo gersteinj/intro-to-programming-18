@@ -56,6 +56,7 @@ Linux:
 * `dir` & `ls`
 * `rm` (Linux) or `del` (Windows)
 * `mkdir`
+* `touch`
 * most commands can take arguments
 ---
 ## LS or DIR
@@ -112,6 +113,14 @@ gersteinj   jgerstein
 Day08.py        IntroToProgramming17  Notebook2.ipynb  README.txt  class_samples.py  first-repo  intro-to-lists          processusernames.py  usernames.csv
 FinalProject17  Notebook1.ipynb       PRS-stats        SAMPLEDIR   filescript.py     hello.py    processusernames.ipynb  pythagoras.py
 14:35 ~ $ 
+```
+---
+## TOUCH
+
+* Create a file in CWD
+
+```bash
+14:26 ~ $ touch <myfilename>
 ```
 ---
 ## RM (or DEL)
