@@ -41,13 +41,17 @@
 14:35 ~ $ git config --global credential.helper cache
 ```
 ---
-## Local Git Commands
+## Beginner Git Commands
 
 * `init`
 * `add`
 * `commit`
-* `local`
 * `checkout`
+* `status`
+* `log`
+---
+## Other Local Git Commands
+
 * `branch`
 * `merge`
 * `reset`
@@ -64,6 +68,14 @@
 
 ```bash
 14:35 ~ $ git init
+```
+---
+## STATUS
+
+* Check status of local repository
+
+```bash
+14:35 ~ $ git status
 ```
 ---
 ## CLONE
@@ -118,6 +130,16 @@
 * Create a commit with the message "First Commit"
 * Use `git status` again to check your repo
 ---
+## LOG
+
+* View commit history
+* For long logs, use `q` to exit
+
+```bash
+14:35 ~ $ git log                      # View commit history
+14:35 ~ $ git log --oneline            # View compact version of commit history
+```
+---
 ## PUSH
 
 * Send commits to remote repository
@@ -148,3 +170,4 @@
 * Use `git status` to see current state of local repo
 * Use `git pull` to get newest updates
 * Use `git status` again to see current state of local repo
+* Use `git log` to see commit history
